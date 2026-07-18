@@ -1,10 +1,12 @@
 //! # Macros for ratwrap
 //!
-//! This crate provides procedural macros used by `ratwrap`.
+//! This crate provides procedural macros used by
+//! [`ratwrap`](https://github.com/mnmun/ratwrap).
 //!
 //! ## Available macros
 //!
-//! - [`name!`]: Constructs nested enum variant expressions with automatic path prefixing
+//! - [`name!`] - constructs nested enum variant expressions with automatic path
+//! prefixing
 //!
 //! ## Usage
 //!
