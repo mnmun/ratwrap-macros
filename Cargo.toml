@@ -1,7 +1,14 @@
 [package]
-name = "macros"
+name = "ratwrap-macros"
+description = "macros for ratwrap"
 version = "1.0.0"
 authors = ["mnmun <mnmnmun@proton.me>"]
+homepage = "https://github.com/mnmun/ratwrap-macros"
+repository = "https://github.com/mnmun/ratwrap-macros"
+readme = "README.md"
+keywords = ["macros", "ratwrap", "terminal", "tui"]
+categories = ["command-line-interface"]
+exclude = ["flake.nix", "flake.lock"]
 license = "MIT"
 edition = "2024"
 

@@ -43,7 +43,7 @@ name!( [ <path>:: ] <ident>, <ident>, ..., <ident> [ { <fields> } ])
 |----------------|--------------------------------------------------------------------------------|
 | `<path>`       | Optional base path to the module with enums automatically added to all idents) |
 | `<ident>`      | Enum identifier (at least two)                                                 |
-| `{ <fields> }` | Optional struct‑initializer appended to the innermost variant                |
+| `{ <fields> }` | Optional struct‑initializer appended to the innermost variant                  |
 
 ### Examples
 
