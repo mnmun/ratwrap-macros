@@ -1,10 +1,11 @@
 [package]
 name = "ratwrap-macros"
 description = "macros for ratwrap"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["mnmun <mnmnmun@proton.me>"]
 homepage = "https://github.com/mnmun/ratwrap-macros"
 repository = "https://github.com/mnmun/ratwrap-macros"
+documentation = "https://docs.rs/ratwrap-macros/latest/ratwrap_macros/"
 readme = "README.md"
 keywords = ["macros", "ratwrap", "terminal", "tui"]
 categories = ["command-line-interface"]
