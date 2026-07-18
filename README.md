@@ -4,7 +4,7 @@ Procedural macros for [ratwrap](https://github.com/mnmun/ratwrap).
 
 ## Overview
 
-This crate provides the [`name!`] macro, used to construct nested enum variant expressions with automatic path prefixing.
+This crate provides the `name!` macro, used to construct nested enum variant expressions with automatic path prefixing.
 
 ## `name!`
 
